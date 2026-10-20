@@ -1,0 +1,8 @@
+{
+  "name": "Jumi Connect — Kenya Experiences Marketplace",
+  "description": "Kenya's premier social-travel and curated experience marketplace. Book solo adventures with Buddy Match, romantic escapes for two, or group and chama getaways with pole-pole M-Pesa installments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
